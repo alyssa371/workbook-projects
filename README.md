@@ -29,8 +29,12 @@ I wrote the code below to create a new column to an existing table based on seve
 To see more of the work I have done during the Data Skills bootcamp I attended you can access my work books using the following links:
 
 [Excel Workbook](https://github.com/alyssa371/workbook-projects/blob/eb339a85c685471ba70c0498b99af994cec64801/Alyssa_Nemenonoka_ExcelWorkbook%20(1).docx)
+
 [Tableau & Power BI Workbook](https://github.com/alyssa371/workbook-projects/blob/69d7b59c9e75c6d40eed0c1dc20ed07c2aab4b31/Alyssa_Nemenonoka__Tableau%26PowerBI_Workbook.docx)
+
 [MySQL Workbook](https://github.com/alyssa371/workbook-projects/blob/69d7b59c9e75c6d40eed0c1dc20ed07c2aab4b31/Alyssa_Nemenonoka_DataTec_Workbook_SQL%20(1).docx)
+
 [Azure Workbook](https://github.com/alyssa371/workbook-projects/blob/69d7b59c9e75c6d40eed0c1dc20ed07c2aab4b31/Alyssa_Nemenonoka_Workbook_Azure%20(1).docx)
+
 [Python Workbook](https://github.com/alyssa371/workbook-projects/blob/69d7b59c9e75c6d40eed0c1dc20ed07c2aab4b31/Alyssa_Nemenonoka_Workbook_Python.docx)
 
