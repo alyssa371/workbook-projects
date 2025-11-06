@@ -24,3 +24,12 @@ The image below provides a part of my report for a ficticious company "Paws & Wh
 I wrote the code below to create a new column to an existing table based on several conditions.
 
 ![image alt](https://github.com/alyssa371/workbook-projects/blob/6548b13865cddd970674100351e85f615a51d683/Screenshot%202025-10-29%20175647.png)
+
+# More
+To see more of the work I have done during the Data Skills bootcamp I attended you can access my work books using the following links:
+[https://github.com/alyssa371/workbook-projects/blob/69d7b59c9e75c6d40eed0c1dc20ed07c2aab4b31/Alyssa_Nemenonoka_ExcelWorkbook%20(1).docx](url)
+[https://github.com/alyssa371/workbook-projects/blob/69d7b59c9e75c6d40eed0c1dc20ed07c2aab4b31/Alyssa_Nemenonoka__Tableau%26PowerBI_Workbook.docx](url)
+[https://github.com/alyssa371/workbook-projects/blob/69d7b59c9e75c6d40eed0c1dc20ed07c2aab4b31/Alyssa_Nemenonoka_DataTec_Workbook_SQL%20(1).docx](url)
+[https://github.com/alyssa371/workbook-projects/blob/69d7b59c9e75c6d40eed0c1dc20ed07c2aab4b31/Alyssa_Nemenonoka_Workbook_Azure%20(1).docx](url)
+[https://github.com/alyssa371/workbook-projects/blob/69d7b59c9e75c6d40eed0c1dc20ed07c2aab4b31/Alyssa_Nemenonoka_Workbook_Python.docx](url)
+
