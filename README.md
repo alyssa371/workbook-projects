@@ -27,7 +27,7 @@ I wrote the code below to create a new column to an existing table based on seve
 
 # More
 To see more of the work I have done during the Data Skills bootcamp I attended you can access my work books using the following links:
-[https://github.com/alyssa371/workbook-projects/blob/69d7b59c9e75c6d40eed0c1dc20ed07c2aab4b31/Alyssa_Nemenonoka_ExcelWorkbook%20(1).docx](url)
+[Excel Workbook](Alyssa_Nemenonoka_ExcelWorkbook (1).docx)
 [https://github.com/alyssa371/workbook-projects/blob/69d7b59c9e75c6d40eed0c1dc20ed07c2aab4b31/Alyssa_Nemenonoka__Tableau%26PowerBI_Workbook.docx](url)
 [https://github.com/alyssa371/workbook-projects/blob/69d7b59c9e75c6d40eed0c1dc20ed07c2aab4b31/Alyssa_Nemenonoka_DataTec_Workbook_SQL%20(1).docx](url)
 [https://github.com/alyssa371/workbook-projects/blob/69d7b59c9e75c6d40eed0c1dc20ed07c2aab4b31/Alyssa_Nemenonoka_Workbook_Azure%20(1).docx](url)
