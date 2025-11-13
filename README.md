@@ -9,6 +9,7 @@ Exploring different Excel functions and visualization tools. The example below f
 Using data visualization platforms like Tableau and Power BI to portray crucial findings in a dataset. For instance, a bar chart and a heat map showcasing growth in percentage change by various sub-industries.
 
 ![image alt](https://github.com/alyssa371/workbook-projects/blob/6548b13865cddd970674100351e85f615a51d683/Screenshot%202025-10-01%20115712.png)
+![image alt](https://github.com/alyssa371/workbook-projects/blob/3bafa4b1442bc02b40e3964e83bf63bb5a0d1e3d/Screenshot%202025-10-01%20160313.png)
 
 # MySQL
 Learning to apply main SQL functions and commands using a variety of datasets provided. The command below allowed me to see the average population of each country.
